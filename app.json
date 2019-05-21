@@ -1,0 +1,26 @@
+{
+  "id": "b734b11f-bdb0-430a-99b3-f7e1c8b684f9",
+  "name": "ALProject_test",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject_test.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
